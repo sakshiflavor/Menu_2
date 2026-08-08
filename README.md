@@ -33,11 +33,12 @@
     </h3>
     <br>
     <br>
+    
  <form action="https://sakshiflavor.github.io/Menu_1/" style="text-align: center;">
   <button type="submit">Tea&Coffee</button>
     
     <form action="https://sakshiflavor.github.io/Menu_2/" style="text-align: center;">
-  <button type="submit">Maggi</button>
+  <button type="submit">Maggi</button></form>
 
       <form action="https://sakshiflavor.github.io/Menu_3/" style="text-align: center;">
   <button type="submit">Burger</button>
