@@ -33,10 +33,10 @@
     </h3>
     <br>
     <br>
- <form action="https://example.com" style="text-align: center;">
+ <form action="https://sakshiflavor.github.io/Menu_1/" style="text-align: center;">
   <button type="submit">Tea&Coffee</button>
     
-    <form action="https://example.com" style="text-align: center;">
+    <form action="https://sakshiflavor.github.io/Menu_2/" style="text-align: center;">
   <button type="submit">Maggi</button>
 
       <form action="https://example.com" style="text-align: center;">
