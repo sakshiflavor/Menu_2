@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html>
 
-<head>
   <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
   <link rel="stylesheet" href="styles/style.css"/>
   <title>Chaat Puchka SahakarNagar Menu </title>
@@ -81,5 +78,4 @@
     <form action="https://example.com" style="text-align: center;">
   <button type="submit">Shakes/Cold_Coffee</button>
 </form>
-</body>
-</html>
+
