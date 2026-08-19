@@ -16,19 +16,19 @@
     Maggi
     <br>
     <h3>
-<p style="word-spacing: 180px; text-align: Center; color: #8AB4F8;">Veggie_Maggi  ₹50</p>
-      <p style="word-spacing: 100px; text-align: Center; color: #8AB4F8;">Punjabi_Tadka_Maggi   ₹50</p>
-      <p style="word-spacing: 120px; text-align: Center; color: #8AB4F8;">Chilli_Garlic_Maggi ₹50</p>
-      <p style="word-spacing: 150px; text-align: Center; color: #8AB4F8;">Tandoori_Maggi ₹65</p>
-      <p style="word-spacing: 150px; text-align: Center; color: #8AB4F8;">Mexican_Maggi ₹65</p>
-      <p style="word-spacing: 173px; text-align: Center; color: #8AB4F8;">Butter_Maggi ₹65</p>
-      <p style="word-spacing: 169px; text-align: Center; color: #8AB4F8;">Cream_Maggi  ₹75</p>
-      <p style="word-spacing: 138px; text-align: Center; color: #8AB4F8;">Schezwan_Maggi ₹80</p>
-      <p style="word-spacing: 163px; text-align: Center; color: #8AB4F8;">Masala_Maggi  ₹80</p>
-      <p style="word-spacing: 87px; text-align: Center; color: #8AB4F8;">Corn_&_Cheese_Maggi  ₹90</p>
-       <p style="word-spacing: 104px; text-align: Center; color: #8AB4F8;">Cheese_Chilli_Maggi  ₹90</p>
-       <p style="word-spacing: 110px; text-align: Center; color: #8AB4F8;">Veg_Paneer_Maggi  ₹100</p>
-       <p style="word-spacing: 119px; text-align: Center; color: #8AB4F8;">Mushroom_Maggi ₹100</p>
+<p style="word-spacing: 180px; text-align: Center; color: white;">Veggie_Maggi  ₹50</p>
+      <p style="word-spacing: 100px; text-align: Center; color: white;">Punjabi_Tadka_Maggi   ₹50</p>
+      <p style="word-spacing: 120px; text-align: Center; color: white;">Chilli_Garlic_Maggi ₹50</p>
+      <p style="word-spacing: 150px; text-align: Center; color: white;">Tandoori_Maggi ₹65</p>
+      <p style="word-spacing: 150px; text-align: Center; color: white;">Mexican_Maggi ₹65</p>
+      <p style="word-spacing: 173px; text-align: Center; color: white;">Butter_Maggi ₹65</p>
+      <p style="word-spacing: 169px; text-align: Center; color: white;">Cream_Maggi  ₹75</p>
+      <p style="word-spacing: 138px; text-align: Center; color: white;">Schezwan_Maggi ₹80</p>
+      <p style="word-spacing: 163px; text-align: Center; color: white;">Masala_Maggi  ₹80</p>
+      <p style="word-spacing: 87px; text-align: Center; color: white;">Corn_&_Cheese_Maggi  ₹90</p>
+       <p style="word-spacing: 104px; text-align: Center; color: white;">Cheese_Chilli_Maggi  ₹90</p>
+       <p style="word-spacing: 110px; text-align: Center; color: white;">Veg_Paneer_Maggi  ₹100</p>
+       <p style="word-spacing: 119px; text-align: Center; color: white;">Mushroom_Maggi ₹100</p>
       
      </h3>
     <br>
